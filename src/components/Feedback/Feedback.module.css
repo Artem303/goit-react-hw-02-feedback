@@ -1,0 +1,16 @@
+.feedbackContainer {
+    padding-bottom: 15px;
+}
+.feedbackButtonList {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+.feedbackButtonList button {
+    padding: 7px;
+    border-radius: 6px;
+}
+.feedbackButtonList button:hover {
+    background-color:rgb(158, 131, 183);
+    cursor: pointer;
+    }
